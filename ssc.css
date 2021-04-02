@@ -38,6 +38,11 @@ body {
     width: 50px;
 }
 
+.inputsecondform {
+    border: solid 1px black;
+    background-color: rgb(128, 128, 128);
+}
+
 
 /*.table {
     padding: .5rem .5rem;
